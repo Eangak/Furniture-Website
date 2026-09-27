@@ -8,7 +8,7 @@ pipeline {
         DOCKER_IMAGE_NAME="furniture-website"
 
         // EC2 Instance Configuration
-        AWS_EC2_HOST="34.224.80.155"
+        //AWS_EC2_HOST="34.224.80.155"
     }
     
     parameters {
